@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnhamelink/hubot-andrews-and-arnold.git"
+    "url": "git://github.com/hubot-scripts/hubot-andrews-and-arnold.git"
   },
 
   "bugs": {
-    "url": "https://github.com/johnhamelink/hubot-andrews-and-arnold/issues"
+    "url": "https://github.com/hubot-scripts/hubot-andrews-and-arnold/issues"
   },
 
   "dependencies": {
