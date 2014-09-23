@@ -1,36 +1,29 @@
 {
   "name": "hubot-andrews-and-arnold",
   "description": "View your ISP Quota",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "John Hamelink <john@farmer.io>",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
   "repository": {
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-andrews-and-arnold.git"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-andrews-and-arnold/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
   },
-
   "main": "index.coffee",
-
   "scripts": {}
 }
